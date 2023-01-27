@@ -93,7 +93,8 @@ body{
     cursor: pointer;
 }
 .button>div .red{
-    background-color:
+    background-color: tomato;
+}
 .transfer-btn{
     display: block;
     margin-top: 1rem;
